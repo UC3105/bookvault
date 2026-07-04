@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { Helmet } from 'react-helmet-async'
 import { mustReadBooks } from '../data/mustReadBooks'
 import StarRating from '../components/StarRating'
 import { getAmazonUrl, getKindleUrl, getAudibleTrialUrl, getGoogleBooksUrl } from '../utils/amazonLink'
@@ -70,6 +71,12 @@ const MustRead = () => {
   )
 
   return (
+    <>
+      <Helmet>
+        <title>Books to Read Before You Die — BookVault | 30 Essential Books</title>
+        <meta name="description" content="30 essential books curated by BookVault — from Dostoevsky and Tolstoy to Orwell and García Márquez. Reviews, ratings and buy links for the greatest books ever written." />
+        <link rel="canonical" href="https://bookvault-lake.vercel.app/must-read" />
+      </Helmet>
     <div className="mr-page">
       <div className="mr-header">
         <h1 className="mr-main-title">📚 Books to Read Before You Die</h1>
@@ -96,6 +103,7 @@ const MustRead = () => {
         )}
       </div>
     </div>
+    </>
   )
 }
 

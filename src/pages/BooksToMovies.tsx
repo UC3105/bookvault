@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Helmet } from 'react-helmet-async'
 import { bookMovies } from '../data/bookMovies'
 import './BooksToMovies.css'
 
@@ -16,6 +17,12 @@ const BooksToMovies = () => {
   const [activeIdx, setActiveIdx] = useState<number | null>(null)
 
   return (
+    <>
+      <Helmet>
+        <title>Books Made Into Movies — BookVault | Read Before You Watch</title>
+        <meta name="description" content="10 iconic books that became legendary films — The Godfather, Schindler's List, No Country for Old Men, The Shining and more. Compare book vs film ratings on BookVault." />
+        <link rel="canonical" href="https://bookvault-lake.vercel.app/books-to-movies" />
+      </Helmet>
     <div className="btm-page">
       <div className="btm-header">
         <h1 className="btm-title">📖 → 🎬 Books Made Into Movies</h1>
@@ -85,6 +92,7 @@ const BooksToMovies = () => {
         ))}
       </div>
     </div>
+    </>
   )
 }
 
