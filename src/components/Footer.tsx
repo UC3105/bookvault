@@ -22,6 +22,13 @@ const Footer = () => (
         <a href="#">Contact</a>
         <a href="#">Privacy Policy</a>
       </div>
+      <div className="footer-links">
+        <p className="footer-col-title">Our Sites</p>
+        <a href="https://cinevault-pi-five.vercel.app" target="_blank" rel="noopener noreferrer">🎬 CineVault (Vercel)</a>
+        <a href="https://cinevault-4bj.pages.dev" target="_blank" rel="noopener noreferrer">🎬 CineVault (Cloudflare)</a>
+        <a href="https://bookvault-lake.vercel.app" target="_blank" rel="noopener noreferrer">📚 BookVault (Vercel)</a>
+        <a href="https://bookvault-4dh.pages.dev" target="_blank" rel="noopener noreferrer">📚 BookVault (Cloudflare)</a>
+      </div>
     </div>
     <div className="footer-bottom">
       <span>© 2026 BookVault. All rights reserved.</span>
