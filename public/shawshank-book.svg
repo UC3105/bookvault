@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="330" viewBox="0 0 220 330">
+  <rect width="220" height="330" fill="#1a1a2e"/>
+  <rect x="0" y="220" width="220" height="110" fill="#0d0d1a"/>
+  <text x="110" y="255" font-family="serif" font-size="11" fill="#c8a96e" text-anchor="middle" font-weight="bold">RITA HAYWORTH AND</text>
+  <text x="110" y="272" font-family="serif" font-size="11" fill="#c8a96e" text-anchor="middle" font-weight="bold">SHAWSHANK REDEMPTION</text>
+  <text x="110" y="292" font-family="serif" font-size="11" fill="#aaa" text-anchor="middle">Stephen King</text>
+  <text x="110" y="112" font-family="serif" font-size="80" fill="#c8a96e" text-anchor="middle" opacity="0.1">⬡</text>
+</svg>

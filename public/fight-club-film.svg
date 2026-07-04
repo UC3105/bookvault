@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="330" viewBox="0 0 220 330">
+  <rect width="220" height="330" fill="#1a0800"/>
+  <rect x="0" y="215" width="220" height="115" fill="#0d0400"/>
+  <text x="110" y="248" font-family="sans-serif" font-size="22" fill="#ff4400" text-anchor="middle" font-weight="900">FIGHT</text>
+  <text x="110" y="272" font-family="sans-serif" font-size="22" fill="#ff4400" text-anchor="middle" font-weight="900">CLUB</text>
+  <text x="110" y="295" font-family="sans-serif" font-size="10" fill="#666" text-anchor="middle">1999 · David Fincher</text>
+  <text x="110" y="115" font-family="sans-serif" font-size="72" fill="#ff4400" text-anchor="middle" opacity="0.07">✊</text>
+</svg>

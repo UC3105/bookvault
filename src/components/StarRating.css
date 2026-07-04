@@ -1,0 +1,7 @@
+.star-rating { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
+.star-label { color: #888; font-size: 12px; }
+.stars { display: flex; gap: 2px; }
+.star { background: none; border: none; font-size: 20px; color: #3a3a3a; cursor: pointer; padding: 0 1px; transition: color 0.1s, transform 0.1s; line-height: 1; }
+.star:hover, .star.filled { color: #d4a017; }
+.star:hover { transform: scale(1.2); }
+.star-saved { font-size: 11px; color: #d4a017; font-weight: 600; }

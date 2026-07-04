@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#006064;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#002426;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg)"/>
+  <rect x="20" y="20" width="260" height="410" fill="none" stroke="#80deea" stroke-width="1.5" opacity="0.6"/>
+  <text x="150" y="68" font-family="Georgia, serif" font-size="22" fill="#e0f7fa" text-anchor="middle" font-weight="bold">Mirrors of Time</text>
+  <line x1="60" y1="88" x2="240" y2="88" stroke="#80deea" stroke-width="1" opacity="0.5"/>
+  <!-- Mirror shape -->
+  <ellipse cx="150" cy="190" rx="55" ry="70" fill="none" stroke="#80deea" stroke-width="2" opacity="0.6"/>
+  <line x1="150" y1="260" x2="150" y2="295" stroke="#80deea" stroke-width="2" opacity="0.5"/>
+  <line x1="120" y1="295" x2="180" y2="295" stroke="#80deea" stroke-width="2" opacity="0.5"/>
+  <text x="150" y="320" font-family="Georgia, serif" font-size="10" fill="#b2ebf2" text-anchor="middle">USING REGRESSION FOR</text>
+  <text x="150" y="335" font-family="Georgia, serif" font-size="10" fill="#b2ebf2" text-anchor="middle">PHYSICAL, EMOTIONAL &amp; SPIRITUAL HEALING</text>
+  <line x1="60" y1="355" x2="240" y2="355" stroke="#80deea" stroke-width="1" opacity="0.5"/>
+  <text x="150" y="390" font-family="Georgia, serif" font-size="15" fill="#e0f7fa" text-anchor="middle">Dr. Brian Weiss</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="330" viewBox="0 0 220 330">
+  <rect width="220" height="330" fill="#1a0800"/>
+  <rect x="0" y="215" width="220" height="115" fill="#0d0400"/>
+  <text x="110" y="242" font-family="serif" font-size="14" fill="#c8a96e" text-anchor="middle" font-weight="bold">GONE WITH</text>
+  <text x="110" y="262" font-family="serif" font-size="14" fill="#c8a96e" text-anchor="middle" font-weight="bold">THE WIND</text>
+  <text x="110" y="285" font-family="serif" font-size="11" fill="#aaa" text-anchor="middle">Margaret Mitchell</text>
+  <text x="110" y="300" font-family="sans-serif" font-size="9" fill="#666" text-anchor="middle">Pulitzer Prize 1937</text>
+</svg>

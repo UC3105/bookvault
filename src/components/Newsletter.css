@@ -1,0 +1,12 @@
+.newsletter { width: 820px; max-width: 100%; margin-top: 24px; background: linear-gradient(135deg, #2a1a00 0%, #3a2500 100%); border: 1px solid #d4a01733; border-radius: 8px; }
+.newsletter-inner { padding: 28px 32px; display: flex; align-items: center; gap: 32px; }
+.newsletter-text { flex: 1; }
+.newsletter-title { font-size: 18px; font-weight: 800; color: #fff; margin: 0 0 6px; }
+.newsletter-sub { font-size: 13px; color: #aa8040; margin: 0; }
+.newsletter-form { display: flex; gap: 8px; flex-shrink: 0; }
+.newsletter-input { padding: 10px 14px; background: #1a1000; border: 1px solid #d4a01755; border-radius: 6px; color: #fff; font-size: 13px; outline: none; width: 200px; transition: border-color 0.2s; font-family: inherit; }
+.newsletter-input::placeholder { color: #7a5a20; }
+.newsletter-input:focus { border-color: #d4a017; }
+.newsletter-btn { padding: 10px 20px; background: #d4a017; color: #000; border: none; border-radius: 6px; font-weight: 800; font-size: 13px; cursor: pointer; white-space: nowrap; transition: background 0.2s; font-family: inherit; }
+.newsletter-btn:hover { background: #b8860b; }
+.newsletter-thanks { color: #d4a017; font-weight: 700; font-size: 14px; margin: 0; }

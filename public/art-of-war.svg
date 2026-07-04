@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#b71c1c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a0000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg)"/>
+  <rect x="20" y="20" width="260" height="410" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.7"/>
+  <text x="150" y="78" font-family="Georgia, serif" font-size="26" fill="#ffd700" text-anchor="middle" font-weight="bold">The Art of War</text>
+  <line x1="60" y1="98" x2="240" y2="98" stroke="#ffd700" stroke-width="1" opacity="0.5"/>
+  <text x="150" y="215" font-family="serif" font-size="72" fill="#ffd700" text-anchor="middle" opacity="0.7">兵</text>
+  <text x="150" y="265" font-family="Georgia, serif" font-size="11" fill="#ffcc80" text-anchor="middle">STRATEGY · WARFARE · WISDOM</text>
+  <line x1="60" y1="285" x2="240" y2="285" stroke="#ffd700" stroke-width="1" opacity="0.5"/>
+  <text x="150" y="328" font-family="Georgia, serif" font-size="16" fill="#fff" text-anchor="middle">Sun Tzu</text>
+  <text x="150" y="358" font-family="Georgia, serif" font-size="11" fill="#ffd700" text-anchor="middle" opacity="0.8">China · 5th century BC</text>
+</svg>

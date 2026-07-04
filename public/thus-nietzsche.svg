@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1a0a00"/><stop offset="100%" style="stop-color:#3d1200"/></linearGradient></defs>
+  <rect width="300" height="450" fill="url(#bg)"/>
+  <rect x="18" y="18" width="264" height="414" fill="none" stroke="#ff6600" stroke-width="1.5" opacity="0.6"/>
+  <text x="150" y="70" font-family="Georgia,serif" font-size="16" fill="#ff6600" text-anchor="middle" font-weight="bold">Die Geburt der Tragödie</text>
+  <line x1="55" y1="88" x2="245" y2="88" stroke="#ff6600" stroke-width="1" opacity="0.4"/>
+  <text x="150" y="210" font-family="serif" font-size="80" fill="#ff6600" text-anchor="middle" opacity="0.5">⚡</text>
+  <text x="150" y="268" font-family="Georgia,serif" font-size="10" fill="#ffaa66" text-anchor="middle">THE BIRTH OF TRAGEDY</text>
+  <line x1="55" y1="288" x2="245" y2="288" stroke="#ff6600" stroke-width="1" opacity="0.4"/>
+  <text x="150" y="330" font-family="Georgia,serif" font-size="15" fill="#ffe0cc" text-anchor="middle">Friedrich Nietzsche</text>
+  <text x="150" y="355" font-family="Georgia,serif" font-size="11" fill="#ff6600" text-anchor="middle">1872</text>
+</svg>

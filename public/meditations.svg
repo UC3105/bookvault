@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3e2723;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg)"/>
+  <rect x="20" y="20" width="260" height="410" fill="none" stroke="#c8a951" stroke-width="2" opacity="0.7"/>
+  <rect x="28" y="28" width="244" height="394" fill="none" stroke="#c8a951" stroke-width="0.5" opacity="0.3"/>
+  <text x="150" y="80" font-family="Georgia, serif" font-size="26" fill="#c8a951" text-anchor="middle" font-weight="bold">Meditations</text>
+  <line x1="60" y1="100" x2="240" y2="100" stroke="#c8a951" stroke-width="1" opacity="0.5"/>
+  <text x="150" y="200" font-family="Georgia, serif" font-size="72" fill="#c8a951" text-anchor="middle" opacity="0.6">M</text>
+  <text x="150" y="260" font-family="Georgia, serif" font-size="13" fill="#e8d5a3" text-anchor="middle" opacity="0.9">STOIC PHILOSOPHY</text>
+  <line x1="60" y1="290" x2="240" y2="290" stroke="#c8a951" stroke-width="1" opacity="0.5"/>
+  <text x="150" y="330" font-family="Georgia, serif" font-size="15" fill="#fff" text-anchor="middle">Marcus Aurelius</text>
+  <text x="150" y="360" font-family="Georgia, serif" font-size="11" fill="#c8a951" text-anchor="middle" opacity="0.8">Roman Emperor · 161–180 AD</text>
+</svg>

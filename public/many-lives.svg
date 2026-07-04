@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a2e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg)"/>
+  <rect x="20" y="20" width="260" height="410" fill="none" stroke="#9c8ec1" stroke-width="1.5" opacity="0.6"/>
+  <text x="150" y="68" font-family="Georgia, serif" font-size="22" fill="#e8d5ff" text-anchor="middle" font-weight="bold">Many Lives,</text>
+  <text x="150" y="93" font-family="Georgia, serif" font-size="22" fill="#e8d5ff" text-anchor="middle" font-weight="bold">Many Masters</text>
+  <line x1="60" y1="110" x2="240" y2="110" stroke="#9c8ec1" stroke-width="1" opacity="0.5"/>
+  <!-- Stars -->
+  <text x="80" y="190" font-size="18" fill="#ffd700" opacity="0.8">★</text>
+  <text x="135" y="160" font-size="24" fill="#ffd700" opacity="0.9">★</text>
+  <text x="195" y="185" font-size="16" fill="#ffd700" opacity="0.7">★</text>
+  <text x="100" y="230" font-size="14" fill="#ffd700" opacity="0.6">★</text>
+  <text x="170" y="220" font-size="20" fill="#ffd700" opacity="0.8">★</text>
+  <text x="150" y="265" font-family="Georgia, serif" font-size="11" fill="#c8b8e8" text-anchor="middle">PAST LIFE · REGRESSION · HEALING</text>
+  <line x1="60" y1="285" x2="240" y2="285" stroke="#9c8ec1" stroke-width="1" opacity="0.5"/>
+  <text x="150" y="328" font-family="Georgia, serif" font-size="15" fill="#e8d5ff" text-anchor="middle">Dr. Brian Weiss</text>
+  <text x="150" y="355" font-family="Georgia, serif" font-size="11" fill="#9c8ec1" text-anchor="middle">Simon &amp; Schuster · 1988</text>
+</svg>
